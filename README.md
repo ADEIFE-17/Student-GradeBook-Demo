@@ -206,6 +206,8 @@ Tests include:
 
 ## Author
 
+ADENIYI OLAMIDE ADEIFE
+
 **Student Gradebook API — Backend Demo Project**
 
 GitHub: https://github.com/ADEIFE-17/Student-GradeBook-Demo
