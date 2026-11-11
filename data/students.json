@@ -1,0 +1,23 @@
+[
+  {
+    "id": "STU-9bfee96b-3c9f-4373-8c43-be2c501dc6bf",
+    "firstName": "John",
+    "lastName": "Enoch",
+    "email": "john@gmail.com",
+    "subjects": {
+      "Mathematics": 40,
+      "English": 75,
+      "Computer Science": 90
+    },
+    "average": 68.33,
+    "highestScore": 90,
+    "lowestScore": 40,
+    "subjectResults": {
+      "Mathematics": "Fail",
+      "English": "Pass",
+      "Computer Science": "Pass"
+    },
+    "createdAt": "2026-11-11T23:33:33.845Z",
+    "updatedAt": "2026-11-11T23:37:19.256Z"
+  }
+]
